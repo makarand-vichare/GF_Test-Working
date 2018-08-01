@@ -1,0 +1,17 @@
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer-master\SourceCode\0.Common\CodingTest.Utility\bin\Debug\CodingTest.Utility.dll
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer-master\SourceCode\0.Common\CodingTest.Utility\bin\Debug\CodingTest.Utility.pdb
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer-master\SourceCode\0.Common\CodingTest.Utility\bin\Debug\Newtonsoft.Json.dll
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer-master\SourceCode\0.Common\CodingTest.Utility\bin\Debug\Newtonsoft.Json.xml
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer-master\SourceCode\0.Common\CodingTest.Utility\obj\Debug\CodingTest.Utility.csproj.CoreCompileInputs.cache
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer-master\SourceCode\0.Common\CodingTest.Utility\obj\Debug\CodingTest.Utility.csproj.CopyComplete
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer-master\SourceCode\0.Common\CodingTest.Utility\obj\Debug\CodingTest.Utility.dll
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer-master\SourceCode\0.Common\CodingTest.Utility\obj\Debug\CodingTest.Utility.pdb
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer-master\SourceCode\0.Common\CodingTest.Utility\obj\Debug\CodingTest.Utility.csprojAssemblyReference.cache
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\0.Common\CodingTest.Utility\bin\Debug\CodingTest.Utility.dll
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\0.Common\CodingTest.Utility\bin\Debug\CodingTest.Utility.pdb
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\0.Common\CodingTest.Utility\bin\Debug\Newtonsoft.Json.dll
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\0.Common\CodingTest.Utility\bin\Debug\Newtonsoft.Json.xml
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\0.Common\CodingTest.Utility\obj\Debug\CodingTest.Utility.csproj.CoreCompileInputs.cache
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\0.Common\CodingTest.Utility\obj\Debug\CodingTest.Utility.csproj.CopyComplete
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\0.Common\CodingTest.Utility\obj\Debug\CodingTest.Utility.dll
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\0.Common\CodingTest.Utility\obj\Debug\CodingTest.Utility.pdb

@@ -1,0 +1,16 @@
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer-master\SourceCode\5.InfraStructure\ASPNETIdentityWithOnion.Web\bin\NLog.config
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer-master\SourceCode\5.InfraStructure\ASPNETIdentityWithOnion.Web\bin\CodingTest.InfraStructure.dll
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer-master\SourceCode\5.InfraStructure\ASPNETIdentityWithOnion.Web\bin\CodingTest.InfraStructure.pdb
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer-master\SourceCode\5.InfraStructure\CodingTest.Infrastructure\obj\Debug\CodingTest.InfraStructure.csprojAssemblyReference.cache
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer-master\SourceCode\5.InfraStructure\CodingTest.Infrastructure\obj\Debug\CodingTest.InfraStructure.csproj.CoreCompileInputs.cache
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer-master\SourceCode\5.InfraStructure\CodingTest.Infrastructure\obj\Debug\CodingTest.InfraStructure.csproj.CopyComplete
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer-master\SourceCode\5.InfraStructure\CodingTest.Infrastructure\obj\Debug\CodingTest.InfraStructure.dll
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer-master\SourceCode\5.InfraStructure\CodingTest.Infrastructure\obj\Debug\CodingTest.InfraStructure.pdb
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\5.InfraStructure\ASPNETIdentityWithOnion.Web\bin\NLog.config
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\5.InfraStructure\ASPNETIdentityWithOnion.Web\bin\CodingTest.InfraStructure.dll
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\5.InfraStructure\ASPNETIdentityWithOnion.Web\bin\CodingTest.InfraStructure.pdb
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\5.InfraStructure\CodingTest.Infrastructure\obj\Debug\CodingTest.InfraStructure.csprojAssemblyReference.cache
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\5.InfraStructure\CodingTest.Infrastructure\obj\Debug\CodingTest.InfraStructure.csproj.CoreCompileInputs.cache
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\5.InfraStructure\CodingTest.Infrastructure\obj\Debug\CodingTest.InfraStructure.csproj.CopyComplete
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\5.InfraStructure\CodingTest.Infrastructure\obj\Debug\CodingTest.InfraStructure.dll
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\5.InfraStructure\CodingTest.Infrastructure\obj\Debug\CodingTest.InfraStructure.pdb

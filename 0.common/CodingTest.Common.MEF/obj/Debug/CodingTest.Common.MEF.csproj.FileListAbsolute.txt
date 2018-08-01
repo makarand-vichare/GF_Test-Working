@@ -1,0 +1,16 @@
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer-master\SourceCode\0.Common\CodingTest.Common.MEF\bin\Debug\CodingTest.Common.MEF.dll
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer-master\SourceCode\0.Common\CodingTest.Common.MEF\bin\Debug\CodingTest.Common.MEF.pdb
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer-master\SourceCode\0.Common\CodingTest.Common.MEF\bin\Debug\StructureMap.dll
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer-master\SourceCode\0.Common\CodingTest.Common.MEF\obj\Debug\CodingTest.Common.MEF.csprojAssemblyReference.cache
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer-master\SourceCode\0.Common\CodingTest.Common.MEF\obj\Debug\CodingTest.Common.MEF.csproj.CoreCompileInputs.cache
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer-master\SourceCode\0.Common\CodingTest.Common.MEF\obj\Debug\CodingTest.Common.MEF.csproj.CopyComplete
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer-master\SourceCode\0.Common\CodingTest.Common.MEF\obj\Debug\CodingTest.Common.MEF.dll
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer-master\SourceCode\0.Common\CodingTest.Common.MEF\obj\Debug\CodingTest.Common.MEF.pdb
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\0.Common\CodingTest.Common.MEF\bin\Debug\CodingTest.Common.MEF.dll
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\0.Common\CodingTest.Common.MEF\bin\Debug\CodingTest.Common.MEF.pdb
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\0.Common\CodingTest.Common.MEF\bin\Debug\StructureMap.dll
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\0.Common\CodingTest.Common.MEF\obj\Debug\CodingTest.Common.MEF.csproj.CoreCompileInputs.cache
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\0.Common\CodingTest.Common.MEF\obj\Debug\CodingTest.Common.MEF.csproj.CopyComplete
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\0.Common\CodingTest.Common.MEF\obj\Debug\CodingTest.Common.MEF.dll
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\0.Common\CodingTest.Common.MEF\obj\Debug\CodingTest.Common.MEF.pdb
+D:\codepractice-prj\MakrandVichare-GreenFinch-CodingTest-CSharpEngineer\0.Common\CodingTest.Common.MEF\obj\Debug\CodingTest.Common.MEF.csprojAssemblyReference.cache
